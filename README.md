@@ -15,13 +15,6 @@ npm run dev
 - **API:** http://localhost:3001
 - **Admin:** http://localhost:5173/#/admin
 
-## Demo Accounts (password: `password`)
-| Email | User | Notes |
-|-------|------|-------|
-| maya@example.com | Maya Swiftwind | Adult, Family Pool Head |
-| liam@example.com | Liam Swiftwind | Youth, Family Member |
-| darnell@example.com | Darnell Brooks | Post-Sec, Low balance |
-| grace@example.com | Grace Okafor | Senior, 1 fraud flag |
 
 ## Database (SQLite — `server/transitlink.db`)
 | Table | Purpose |
