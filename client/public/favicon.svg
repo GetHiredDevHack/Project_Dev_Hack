@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Bus body -->
+  <rect x="6" y="14" width="52" height="34" rx="6" fill="#1565ff"/>
+  <!-- Windshield top strip -->
+  <rect x="10" y="17" width="44" height="3" rx="1.5" fill="#0040a0"/>
+  <!-- Windows row -->
+  <rect x="10" y="22" width="12" height="10" rx="2" fill="#a8d4ff"/>
+  <rect x="26" y="22" width="12" height="10" rx="2" fill="#a8d4ff"/>
+  <rect x="42" y="22" width="12" height="10" rx="2" fill="#a8d4ff"/>
+  <!-- Door -->
+  <rect x="26" y="34" width="12" height="10" rx="2" fill="#0040a0"/>
+  <rect x="31" y="36" width="2" height="6" rx="1" fill="#1565ff"/>
+  <!-- Bottom rail -->
+  <rect x="6" y="46" width="52" height="4" rx="2" fill="#0040a0"/>
+  <!-- Undercarriage -->
+  <rect x="8" y="49" width="48" height="5" rx="2" fill="#1a3560"/>
+  <!-- Wheels -->
+  <circle cx="18" cy="52" r="7" fill="#111827"/>
+  <circle cx="18" cy="52" r="4" fill="#374151"/>
+  <circle cx="18" cy="52" r="1.5" fill="#9ca3af"/>
+  <circle cx="46" cy="52" r="7" fill="#111827"/>
+  <circle cx="46" cy="52" r="4" fill="#374151"/>
+  <circle cx="46" cy="52" r="1.5" fill="#9ca3af"/>
+  <!-- Headlight -->
+  <rect x="7" y="38" width="5" height="4" rx="1.5" fill="#fde68a"/>
+  <rect x="52" y="38" width="5" height="4" rx="1.5" fill="#fde68a"/>
+  <!-- Roof detail -->
+  <rect x="14" y="11" width="36" height="4" rx="2" fill="#1565ff"/>
+  <rect x="18" y="9" width="28" height="4" rx="2" fill="#1a3560"/>
+</svg>
