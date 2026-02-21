@@ -1,4 +1,4 @@
-# TransitLink Winnipeg v3
+# TransitLink Winnipeg
 **Full-stack: Express + SQLite backend · React frontend**
 
 ## Quick Start
